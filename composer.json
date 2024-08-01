@@ -1,8 +1,8 @@
 {
-    "name": "mi-lopez/laravel-sso",
+    "name": "bayubimantarar/laravel-sso",
     "description": "Simple PHP SSO integration for Laravel",
     "keywords": ["laravel", "sso", "authentication", "login"],
-    "homepage": "https://github.com/mi-lopez/laravel-sso",
+    "homepage": "https://github.com/bayubimantararlaravel-sso",
     "license": "MIT",
     "authors": [
       {
@@ -19,6 +19,11 @@
           "name": "Miguel López",
           "email": "miguel.lopezt86@gmail.com",
           "homepage": "https://github.com/mi-lopez",
+          "role": "Developer"
+      }, {
+          "name": "Bayu Bimantara",
+          "email": "bayubimantarar@gmail.com",
+          "homepage": "https://github.com/bayubimantarar",
           "role": "Developer"
       }
     ],
